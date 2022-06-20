@@ -40,7 +40,7 @@ export default{
              this.$router.push({name:'HomePage'})
            }
         }
-    },
+        },
 
         async mounted(){
             let user = localStorage.getItem('user-info');
