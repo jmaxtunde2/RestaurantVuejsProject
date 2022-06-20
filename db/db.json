@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "name": "Anil Susu",
+      "email": "anilsusu@yahoo.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Aboubaka",
+      "email": "aboubaka@yahoo.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "Anik Balley",
+      "email": "anikb@yahoo.com",
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Burger Kings",
+      "address": "Sedua Sector 500",
+      "contact": "Hugo 90 yuytyjjj",
+      "id": 1
+    },
+    {
+      "name": "Resto Burgy",
+      "address": "Sedua uiop 5000",
+      "contact": 9089999,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Ahuiiyu",
+      "contact": 1111111,
+      "address": "Sedua Sector 50"
+    },
+    {
+      "name": "New resto2",
+      "address": "Juyplok",
+      "contact": "Pkoul ploko",
+      "id": 4
+    },
+    {
+      "name": "Restau 30",
+      "address": "Hyuty nmn",
+      "contact": "Youri po90",
+      "id": 5
+    },
+    {
+      "name": "Grand fty",
+      "address": "uiy20",
+      "contact": "Pouro20",
+      "id": 6
+    },
+    {
+      "name": "Tploioo",
+      "address": "werty",
+      "contact": "ghyu 30",
+      "id": 7
+    }
+  ]
+}
